@@ -2,7 +2,7 @@
 
 ### This script automatically rig limbs! How neat (⁠╹⁠▽⁠╹⁠)
 
-_**OBS!** Only works limbs with three joints (basically biped rigs)._
+_**OBS!** Only works on limbs with three joints (basically biped rigs)._
 
 
 This is a Maya script written mostly for personal use, so the naming conventions are specific to what I like to use in my rigs.
